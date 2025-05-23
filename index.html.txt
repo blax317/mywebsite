@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      font-family: Arial;
+      text-align: center;
+      margin-top: 100px;
+    }
+    h1 {
+      color: #3333cc;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <p>This is my first website built with just my PC.</p>
+</body>
+</html>
